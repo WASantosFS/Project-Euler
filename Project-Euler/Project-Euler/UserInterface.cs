@@ -13,7 +13,7 @@ namespace Project_Euler
             Console.Write("Input: ");
             //int userInput = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(_level1.NthPrimeNumber(10001));
+            Console.WriteLine(_level1.LargestProductInSeries(13));
         }
 
         private void SolutionSelection(int problemNumber)

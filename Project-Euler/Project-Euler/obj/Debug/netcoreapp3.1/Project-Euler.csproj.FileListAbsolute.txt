@@ -10,3 +10,16 @@
 /Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/obj/Debug/netcoreapp3.1/Project-Euler.dll
 /Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/obj/Debug/netcoreapp3.1/Project-Euler.pdb
 /Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/obj/Debug/netcoreapp3.1/Project-Euler.genruntimeconfig.cache
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\bin\Debug\netcoreapp3.1\Project-Euler.exe
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\bin\Debug\netcoreapp3.1\Project-Euler.deps.json
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\bin\Debug\netcoreapp3.1\Project-Euler.runtimeconfig.json
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\bin\Debug\netcoreapp3.1\Project-Euler.runtimeconfig.dev.json
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\bin\Debug\netcoreapp3.1\Project-Euler.dll
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\bin\Debug\netcoreapp3.1\Project-Euler.pdb
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\obj\Debug\netcoreapp3.1\Project-Euler.csprojAssemblyReference.cache
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\obj\Debug\netcoreapp3.1\Project-Euler.AssemblyInfoInputs.cache
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\obj\Debug\netcoreapp3.1\Project-Euler.AssemblyInfo.cs
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\obj\Debug\netcoreapp3.1\Project-Euler.csproj.CoreCompileInputs.cache
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\obj\Debug\netcoreapp3.1\Project-Euler.dll
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\obj\Debug\netcoreapp3.1\Project-Euler.pdb
+C:\Users\Student\Project-Euler\Project-Euler\Project-Euler\obj\Debug\netcoreapp3.1\Project-Euler.genruntimeconfig.cache
