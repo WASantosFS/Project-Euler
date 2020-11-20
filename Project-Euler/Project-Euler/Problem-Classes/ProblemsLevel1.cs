@@ -197,5 +197,19 @@ namespace Project_Euler
 
             return largest;
         }
+
+        public int SpecialPythagTrip(int max)
+        {
+            // a < b < c ; a^2 + b^2 = c^2 ; a + b + c = max ; 
+            // a*b mod 12 == 0 ; a*b*c mod 60 == 0 ;
+            // no repeats ; 
+
+            if (true)
+            {
+
+            }
+
+            return 0;
+        }
     }
 }
