@@ -13,7 +13,7 @@ namespace Project_Euler
             Console.Write("Input: ");
             //int userInput = int.Parse(Console.ReadLine());
 
-            Console.WriteLine(_level1.LargestProductInSeries(13));
+            //Console.WriteLine(_level1.SumOfPrimes(2000000));
         }
 
         private void SolutionSelection(int problemNumber)
