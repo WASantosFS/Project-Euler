@@ -1,32 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Problem_Classes_Tests/Problem_Classes_Tests.csproj": {}
+    "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Problem_Classes_Tests\\Problem_Classes_Tests.csproj": {}
   },
   "projects": {
-    "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Problem_Classes_Tests/Problem_Classes_Tests.csproj": {
+    "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Problem_Classes_Tests\\Problem_Classes_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Problem_Classes_Tests/Problem_Classes_Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Problem_Classes_Tests\\Problem_Classes_Tests.csproj",
         "projectName": "Problem_Classes_Tests",
-        "projectPath": "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Problem_Classes_Tests/Problem_Classes_Tests.csproj",
-        "packagesPath": "/Users/wtedeschi/.nuget/packages/",
-        "outputPath": "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Problem_Classes_Tests/obj/",
+        "projectPath": "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Problem_Classes_Tests\\Problem_Classes_Tests.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Problem_Classes_Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/wtedeschi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/Project-Euler.csproj": {
-                "projectPath": "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/Project-Euler.csproj"
+              "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Project-Euler\\Project-Euler.csproj": {
+                "projectPath": "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Project-Euler\\Project-Euler.csproj"
               }
             }
           }
@@ -72,26 +77,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/Project-Euler.csproj": {
+    "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Project-Euler\\Project-Euler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/Project-Euler.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Project-Euler\\Project-Euler.csproj",
         "projectName": "Project-Euler",
-        "projectPath": "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/Project-Euler.csproj",
-        "packagesPath": "/Users/wtedeschi/.nuget/packages/",
-        "outputPath": "/Users/wtedeschi/Documents/Project-Euler/Project-Euler/Project-Euler/Project-Euler/obj/",
+        "projectPath": "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Project-Euler\\Project-Euler.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Project-Euler\\Project-Euler\\Project-Euler\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/wtedeschi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -122,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
